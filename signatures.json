@@ -1,0 +1,5 @@
+{
+    "s3.amazonaws.com": "NoSuchBucket",
+    "herokuapp.com": "No such app",
+    "github.io": "There isn't a GitHub Pages site here"
+}

@@ -1,0 +1,3 @@
+ghostbucket.s3.amazonaws.com
+zombieapp.herokuapp.com
+thisdoesnotexist.github.io
