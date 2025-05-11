@@ -1,0 +1,2 @@
+# Subsnare
+Subdomain Takeover Detector 
