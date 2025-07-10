@@ -13,7 +13,7 @@ import (
 
 	"github.com/adithya16pillai/subsnare/utils"
 )
-
+ 
 var (
 	verbose      = true
 	totalScanned = 0
